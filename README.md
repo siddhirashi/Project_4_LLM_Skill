@@ -1,7 +1,7 @@
 # LLM Skill: Synthetic Reading Guide
 
 **Assignment 4 · Creating a skill for an LLM · Monsoon Semester 2026**
-Author: Siddhi Rashi Pandey 25MA0012 · Digital Humanities and Social Sciences
+Author: Siddhi Rashi 25MA0012 · Digital Humanities and Social Sciences
 
 **Abstract.** A skill is a Markdown file of instructions that tells a language model how to do one kind of job well, so that the person using it does not have to explain the job every time. My skill is called **Synthetic Reading Guide**. It helps a literature or cultural studies student get from "I have read part of a story" to a research problem, a justified choice of theory and a precise prompt for an LLM. The skill file is [`synthetic_reading_guide_skill.md`](synthetic_reading_guide_skill.md).
 
