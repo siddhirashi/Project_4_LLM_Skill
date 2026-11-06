@@ -57,4 +57,4 @@ Replace `USERNAME` and `REPOSITORY` with the real names before submitting.
 
 | File | URL |
 |---|---|
-| synthetic_reading_guide_skill.md | https://github.com/USERNAME/REPOSITORY/blob/main/synthetic_reading_guide_skill.md |
+| synthetic_reading_guide_skill.md | [https://github.com/USERNAME/REPOSITORY/blob/main/synthetic_reading_guide_skill.md](https://github.com/siddhirashi/Project_4_LLM_Skill/blob/main/synthetic_reading_guide_skill.md) |
