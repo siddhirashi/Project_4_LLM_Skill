@@ -63,5 +63,5 @@ Replace `USERNAME` and `REPOSITORY` with the real names before submitting.
 
 | File | URL |
 |---|---|
-| research_instrument_auditor_skill.md | [https://github.com/USERNAME/REPOSITORY/blob/main/research_instrument_auditor_skill.md](https://github.com/USERNAME/REPOSITORY/blob/main/research_instrument_auditor_skill.md) |
-| sample_input.md | [https://github.com/USERNAME/REPOSITORY/blob/main/sample_input.md](https://github.com/USERNAME/REPOSITORY/blob/main/sample_input.md) |
+| research_instrument_auditor_skill.md | [[https://github.com/siddhirashi/Project_4_LLM_Skill/blob/main/research_instrument_auditor_skill.md](https://github.com/siddhirashi/Project_4_LLM_Skill/blob/main/research_instrument_auditor_skill.md)] |
+| sample_input.md | [[https://github.com/siddhirashi/Project_4_LLM_Skill/blob/main/sample_input.md](https://github.com/siddhirashi/Project_4_LLM_Skill/blob/main/sample_input.md)] |
